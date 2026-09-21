@@ -233,3 +233,6 @@ frontend/node_modules/
 frontend/dist/
 frontend/.vite/
 *.tsbuildinfo
+
+# Local Docker/buildx config (created by scripts/dev-env.ps1)
+.docker-config/
